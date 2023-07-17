@@ -1,2 +1,2 @@
 # Encapsulation
-overview of code 
+some real time example of Encapsulation 
